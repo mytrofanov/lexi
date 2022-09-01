@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "lexical": "^0.3.11"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.34"
+  },
+  "scripts": {
+    "start": "npx web-dev-server --open"
+  }
+}
